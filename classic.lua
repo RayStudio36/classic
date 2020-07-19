@@ -8,6 +8,7 @@
 --
 
 
+---@class Object
 local Object = {}
 Object.__index = Object
 
